@@ -2,7 +2,7 @@
   <h2>Bonjour, je suis Lucas Leprevost 👋</h2>
   <p>
     <b>Développeur Junior | Étudiant en BUT Informatique à l'IUT du Havre</b><br/>
-    Passionné par le développement Backend et l'apprentissage de nouvelles technologies.
+    Je m’oriente principalement vers le développement backend et j’aime apprendre et expérimenter de nouvelles technologies.
   </p>
 </div>
 
