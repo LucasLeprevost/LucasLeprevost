@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### 🚀 À propos de moi
+###  À propos de moi
 
 * 🎓 **Études :** Je suis actuellement étudiant en BUT Informatique à l'IUT du Havre.
 * ☕ **Mon expertise :** Je suis avant tout un **développeur Java**. C'est mon langage de prédilection et celui que j'utilise pour la majorité de mes projets.
